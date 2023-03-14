@@ -8,3 +8,15 @@
 ul{
     list-style: none;
 }
+.fig {
+    font-size: 50px;
+}
+.unit {
+    font-size: 16px;
+    position: relative;
+    margin-top: -30px;
+}
+.img {
+    margin-top: -30px;
+    margin-right: -10px;
+}
