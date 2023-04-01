@@ -1,4 +1,4 @@
-let apiKey = "98tab672b476ca0f49o0538a7b8115f7";
-let apiUrl = `https://api.shecodes.io/weather/v1/current?query=NewYork&key={apiKey}`;
+let apiKey = "6facd8500c739611af19eceacad09e8d";
+let apiUrl = `https://api.openweathermap.org/data/2.5/weather?q=New York&appid=${apiKey}`;
 
 console.log(apiUrl);
